@@ -10,3 +10,5 @@ CVZone Competition
 - I have set a threshold value where the algorithm will cast a bounding box on a car if it doest go below it and thus will prevent duplicate counting
 - I have tuned the parameters like accuracy confidence and threshold for the bounding boxes so that i get the correct labels and bounding box for tracking
 - I have prepared the custom dataset in such a way that the cars that can be seen at the edge of the screen are also counted as they are slightly visible
+
+# Thus i have tracked overall 104 cars including the cars that are seen slightly at the edge of the screen
